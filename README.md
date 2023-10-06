@@ -57,7 +57,8 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![output](images/webserver1.png)
+![Alt text](images/webserver1.png)
+
 
 # RESULT:
 
