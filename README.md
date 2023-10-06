@@ -1,5 +1,5 @@
 # Developing a Simple Webserver
-Name: Amruthavarshini gopal
+Name: Amruthavarshini Gopal
 
 Department:Artificial intelligence and data science
 
